@@ -9,6 +9,7 @@
   "author": "Stephen Wicks",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.15.3"
+    "express": "^4.15.3",
+    "lorem-ipsum": "^1.0.4"
   }
 }
